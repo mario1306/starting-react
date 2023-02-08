@@ -1,8 +1,8 @@
 {
-  "name": "day-1",
+  "name": "starting-react",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/mario1306/starting-react",
+  "homepage": "https://mario1306.github.io/starting-react",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
