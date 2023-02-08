@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mario1306/starting-react.github.io/static/css/main.d1b05096.chunk.css",
-    "main.js": "/mario1306/starting-react.github.io/static/js/main.5f669375.chunk.js",
-    "main.js.map": "/mario1306/starting-react.github.io/static/js/main.5f669375.chunk.js.map",
-    "runtime-main.js": "/mario1306/starting-react.github.io/static/js/runtime-main.9e87f61d.js",
-    "runtime-main.js.map": "/mario1306/starting-react.github.io/static/js/runtime-main.9e87f61d.js.map",
-    "static/js/2.6522393f.chunk.js": "/mario1306/starting-react.github.io/static/js/2.6522393f.chunk.js",
-    "static/js/2.6522393f.chunk.js.map": "/mario1306/starting-react.github.io/static/js/2.6522393f.chunk.js.map",
-    "index.html": "/mario1306/starting-react.github.io/index.html",
-    "precache-manifest.0f5557e6f3ec4544cad8b6b84455c726.js": "/mario1306/starting-react.github.io/precache-manifest.0f5557e6f3ec4544cad8b6b84455c726.js",
-    "service-worker.js": "/mario1306/starting-react.github.io/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/mario1306/starting-react.github.io/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.6522393f.chunk.js.LICENSE.txt": "/mario1306/starting-react.github.io/static/js/2.6522393f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/mario1306/starting-react.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/mario1306/starting-react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/mario1306/starting-react/static/js/main.8011512c.chunk.js",
+    "main.js.map": "/mario1306/starting-react/static/js/main.8011512c.chunk.js.map",
+    "runtime-main.js": "/mario1306/starting-react/static/js/runtime-main.a54bab9a.js",
+    "runtime-main.js.map": "/mario1306/starting-react/static/js/runtime-main.a54bab9a.js.map",
+    "static/js/2.b7eafc0f.chunk.js": "/mario1306/starting-react/static/js/2.b7eafc0f.chunk.js",
+    "static/js/2.b7eafc0f.chunk.js.map": "/mario1306/starting-react/static/js/2.b7eafc0f.chunk.js.map",
+    "index.html": "/mario1306/starting-react/index.html",
+    "precache-manifest.0d42ab87e63f3612ee7b704e787d461a.js": "/mario1306/starting-react/precache-manifest.0d42ab87e63f3612ee7b704e787d461a.js",
+    "service-worker.js": "/mario1306/starting-react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/mario1306/starting-react/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b7eafc0f.chunk.js.LICENSE.txt": "/mario1306/starting-react/static/js/2.b7eafc0f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mario1306/starting-react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e87f61d.js",
-    "static/js/2.6522393f.chunk.js",
+    "static/js/runtime-main.a54bab9a.js",
+    "static/js/2.b7eafc0f.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.5f669375.chunk.js"
+    "static/js/main.8011512c.chunk.js"
   ]
 }
